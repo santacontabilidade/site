@@ -3,7 +3,7 @@ const postcssPresetEnv = require('postcss-preset-env')
 module.exports = {
   siteMetadata: {
     title: 'Santa Contabilidade',
-    siteUrl: 'https://santacontabilidade-site-blog.netlify.app/'
+    siteUrl: 'https://santacontabilidade.com.br/'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -36,7 +36,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'santacontabilidade',
-        short_name: 'santacontabilidade-site-blog',
+        short_name: 'santacontabilidade.com.br/',
         start_url: '/',
         background_color: '#00C2BD',
         theme_color: '#00C2BD',
