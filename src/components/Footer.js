@@ -5,6 +5,8 @@ import LogoFooter from '../../static/assets/logo-branco.png'
 import Face from '../../static/assets/btn-face.png'
 import Insta from '../../static/assets/btn-insta.png'
 import WhatsApp from '../../static/assets/whatsapp-wht.png'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faWhatsapp } from "@fortawesome/free-brands-svg-icons"
 
 const Footer = () => {
   const scrollToPlanos = () => {
@@ -147,6 +149,13 @@ const Footer = () => {
           </Link>
         </div>
       </div>
+      <a 
+        href="https://api.whatsapp.com/send?phone=5548984289990&text=Ol%C3%A1,%20quero%20falar%20com%20um%20especialista"
+        target="_blank"
+        className="float-wpp"
+        >
+        <FontAwesomeIcon icon={faWhatsapp}/>
+      </a>
     </footer>
   )
 }

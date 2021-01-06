@@ -42,18 +42,33 @@
 .como-funciona-wrapper .texts-wrapper {
   display: flex;
   justify-content: center;
-  align-items: flex-start;
   flex-flow: row;
   padding-bottom: 50px;
 }
-.como-funciona-wrapper .voce{
+.como-funciona-wrapper .voce {
   padding-right: 90px;
 }
+
+.como-funciona-wrapper .voce .content-wrapper {
+  padding: 20px 40px;
+  height: 100%;
+  border: 1px solid #60B38D;
+  border-radius: 3px;
+}
+
+.como-funciona-wrapper .nos .content-wrapper {
+  padding: 20px 40px;
+  height: 100%;
+  border: 1px solid #60B38D;
+  border-radius: 3px;
+}
+
 @media (max-width: 768px) {
-  .como-funciona-wrapper .voce{
+  .como-funciona-wrapper .voce {
     padding-right: 0;
     padding-bottom: 50px;
   }
+
   .como-funciona-wrapper .texts-wrapper {
     flex-flow: column;
     align-items: center;

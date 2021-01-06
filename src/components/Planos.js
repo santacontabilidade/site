@@ -68,7 +68,7 @@ const Planos = () => {
               </p>
               <div className="preco">
                 <p>
-                  R$ 97
+                  R$ 107
                 </p>
                 <span>
                   /mês
@@ -103,7 +103,7 @@ const Planos = () => {
               </p>
               <div className="preco">
                 <p>
-                  R$ 157
+                  R$ 167
                 </p>
                 <span>
                   /mês
@@ -135,7 +135,7 @@ const Planos = () => {
               </p>
               <div className="preco">
                 <p>
-                  R$ 217
+                  R$ 227
                 </p>
                 <span>
                   /mês
@@ -162,7 +162,7 @@ const Planos = () => {
             <p className="duvidas">
               Está com dúvidas para definir o plano ideal? 
               <br/>
-              Converse com o nosso especialista que vai te ajudar e apresentar a melhor porposta para o seu negócio!
+              Converse com o nosso especialista que vai te ajudar e apresentar a melhor proposta para o seu negócio!
             </p>
           </div>
           <a

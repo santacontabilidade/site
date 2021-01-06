@@ -1,4 +1,6 @@
 .hero-site {
+  position: relative;
+  top: 20px;
   height: auto;
   width: 100%;
   background: #06606B;

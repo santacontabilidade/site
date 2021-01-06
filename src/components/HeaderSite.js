@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import { Link } from 'gatsby'
 import { ToggleLayer, Arrow, Transition } from "react-laag"
 import { Menu, X, ChevronDown, ChevronUp } from 'react-feather'
-import LogoHero from '../../static/assets/logo-branco.png'
+import LogoHero from '../../static/assets/logo-branco.svg'
 import './HeaderSite.css'
 
 const Header = () => {

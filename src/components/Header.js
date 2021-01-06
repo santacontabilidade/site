@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { Link } from 'gatsby'
 import { Menu, X } from 'react-feather'
-import LogoHero from '../../static/assets/logo-verde.png'
+import LogoHero from '../../static/assets/logo-verde.svg'
 import Lupa from '../../static/assets/lupa.png'
 import './Header.css'
 

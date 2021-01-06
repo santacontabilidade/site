@@ -32,15 +32,15 @@
 .clientes-wrapper .logos-grid .PromoPrev,
 .clientes-wrapper .logos-grid .DoisW,
 .clientes-wrapper .logos-grid .Reiko
- {
-  max-width: 100px;
+{
+  max-width: 110px;
   width: 100%;
   height: auto;
   justify-self: center;
   align-self: center;
 }
 .clientes-wrapper .logos-grid .Growth
- {
+{
   max-width: 200px;
   width: 100%;
   height: auto;
@@ -48,7 +48,7 @@
   align-self: center;
 }
 .clientes-wrapper .logos-grid .Wdi
- {
+{
   max-width: 50px;
   width: 100%;
   height: auto;

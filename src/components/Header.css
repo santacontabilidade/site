@@ -34,6 +34,7 @@
 }
 #Header-Blog .logo-header {
   width: 100%;
+  max-width: 238px;
   height: auto;
 }
 #Header-Blog .logo-header img {
