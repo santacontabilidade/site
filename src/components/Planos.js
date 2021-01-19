@@ -52,7 +52,7 @@ const Planos = () => {
             Com a gente você sabe exatamente quanto vai pagar sem aquelas surpresinhas na fatura!
           </p>
           <h2>
-            PLANOS ACESSÍVEIS A PARTIR DE R$ 97,00
+            PLANOS ACESSÍVEIS A PARTIR DE R$ 107,00
           </h2>
           <p className="planos-subtitle">
             SIMPLIFICAMOS TUDO PARA VOCÊ
