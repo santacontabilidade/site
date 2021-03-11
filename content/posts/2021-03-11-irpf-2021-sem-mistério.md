@@ -182,7 +182,7 @@ contentbody:
 
       · Comprovantes oficiais de pagamento para candidato político também devem ser declarados.
   - type: addyellowbox
-    yellowboxtitle: "Tenha a ajuda de um especialista para a sua declaração do IRPF:"
+    yellowboxtitle: Tenha a ajuda de um especialista para a sua declaração do IRPF, clque aqui!
     yellowboxlink: https://contato.site/cbe97e2100/irpf2021/irpf-2021
   - type: addbodypost
     bodypost: >-
