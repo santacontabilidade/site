@@ -11,7 +11,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-tagmanager',
       options: {
-        id: 'GTM-123456',
+        id: 'AW-814727113',
         includeInDevelopment: false
       }
     },
@@ -26,7 +26,7 @@ module.exports = {
           {
             urlPattern: /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
             handler: `staleWhileRevalidate`
-          },
+          }
         ],
         skipWaiting: true,
         clientsClaim: true
