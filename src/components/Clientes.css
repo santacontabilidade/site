@@ -10,7 +10,7 @@
   flex-flow: column;
 }
 .clientes-wrapper .container h1 {
-  color: #06606B;
+  color: #06606b;
   font-size: 32px;
   font-weight: 400;
   padding: 0 0 50px;
@@ -20,7 +20,7 @@
   display: grid;
   justify-content: center;
   align-content: center;
-  column-gap: 10px;
+  column-gap: 30px;
   row-gap: 30px;
   grid-template-columns: repeat(3, 1fr);
 }
@@ -28,27 +28,25 @@
   justify-self: center;
   align-self: center;
 }
-.clientes-wrapper .logos-grid .AMar,
+.clientes-wrapper .logos-grid .ConexNeg,
 .clientes-wrapper .logos-grid .PromoPrev,
 .clientes-wrapper .logos-grid .DoisW,
-.clientes-wrapper .logos-grid .Reiko
-{
-  max-width: 110px;
+.clientes-wrapper .logos-grid .Reiko {
+  max-width: 140px;
+  max-height: 40px;
   width: 100%;
   height: auto;
   justify-self: center;
   align-self: center;
 }
-.clientes-wrapper .logos-grid .Growth
-{
+.clientes-wrapper .logos-grid .Growth {
   max-width: 200px;
   width: 100%;
   height: auto;
   justify-self: center;
   align-self: center;
 }
-.clientes-wrapper .logos-grid .Wdi
-{
+.clientes-wrapper .logos-grid .Wdi {
   max-width: 50px;
   width: 100%;
   height: auto;
